@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pasqui.filippo\\Desktop\\C# TI FACCIO UN TUTORIAL\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj": {}
+    "C:\\Users\\maupq\\OneDrive\\Desktop\\codice\\sosti\\ConsoleApp6\\ConsoleApp6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pasqui.filippo\\Desktop\\C# TI FACCIO UN TUTORIAL\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj": {
+    "C:\\Users\\maupq\\OneDrive\\Desktop\\codice\\sosti\\ConsoleApp6\\ConsoleApp6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pasqui.filippo\\Desktop\\C# TI FACCIO UN TUTORIAL\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj",
+        "projectUniqueName": "C:\\Users\\maupq\\OneDrive\\Desktop\\codice\\sosti\\ConsoleApp6\\ConsoleApp6.csproj",
         "projectName": "ConsoleApp6",
-        "projectPath": "C:\\Users\\pasqui.filippo\\Desktop\\C# TI FACCIO UN TUTORIAL\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj",
-        "packagesPath": "C:\\Users\\pasqui.filippo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pasqui.filippo\\Desktop\\C# TI FACCIO UN TUTORIAL\\ConsoleApp6\\ConsoleApp6\\obj\\",
+        "projectPath": "C:\\Users\\maupq\\OneDrive\\Desktop\\codice\\sosti\\ConsoleApp6\\ConsoleApp6.csproj",
+        "packagesPath": "C:\\Users\\maupq\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maupq\\OneDrive\\Desktop\\codice\\sosti\\ConsoleApp6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pasqui.filippo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\maupq\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -50,12 +55,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

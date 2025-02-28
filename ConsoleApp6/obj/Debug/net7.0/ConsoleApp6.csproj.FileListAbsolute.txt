@@ -12,3 +12,18 @@ C:\Users\pasqui.filippo\Desktop\C# TI FACCIO UN TUTORIAL\ConsoleApp6\ConsoleApp6
 C:\Users\pasqui.filippo\Desktop\C# TI FACCIO UN TUTORIAL\ConsoleApp6\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.pdb
 C:\Users\pasqui.filippo\Desktop\C# TI FACCIO UN TUTORIAL\ConsoleApp6\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.genruntimeconfig.cache
 C:\Users\pasqui.filippo\Desktop\C# TI FACCIO UN TUTORIAL\ConsoleApp6\ConsoleApp6\obj\Debug\net7.0\ref\ConsoleApp6.dll
+C:\Users\maupq\OneDrive\Desktop\codice\sosti\ConsoleApp6\bin\Debug\net7.0\ConsoleApp6.exe
+C:\Users\maupq\OneDrive\Desktop\codice\sosti\ConsoleApp6\bin\Debug\net7.0\ConsoleApp6.deps.json
+C:\Users\maupq\OneDrive\Desktop\codice\sosti\ConsoleApp6\bin\Debug\net7.0\ConsoleApp6.runtimeconfig.json
+C:\Users\maupq\OneDrive\Desktop\codice\sosti\ConsoleApp6\bin\Debug\net7.0\ConsoleApp6.dll
+C:\Users\maupq\OneDrive\Desktop\codice\sosti\ConsoleApp6\bin\Debug\net7.0\ConsoleApp6.pdb
+C:\Users\maupq\OneDrive\Desktop\codice\sosti\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maupq\OneDrive\Desktop\codice\sosti\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.AssemblyInfoInputs.cache
+C:\Users\maupq\OneDrive\Desktop\codice\sosti\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.AssemblyInfo.cs
+C:\Users\maupq\OneDrive\Desktop\codice\sosti\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\maupq\OneDrive\Desktop\codice\sosti\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.sourcelink.json
+C:\Users\maupq\OneDrive\Desktop\codice\sosti\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.dll
+C:\Users\maupq\OneDrive\Desktop\codice\sosti\ConsoleApp6\obj\Debug\net7.0\refint\ConsoleApp6.dll
+C:\Users\maupq\OneDrive\Desktop\codice\sosti\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.pdb
+C:\Users\maupq\OneDrive\Desktop\codice\sosti\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.genruntimeconfig.cache
+C:\Users\maupq\OneDrive\Desktop\codice\sosti\ConsoleApp6\obj\Debug\net7.0\ref\ConsoleApp6.dll

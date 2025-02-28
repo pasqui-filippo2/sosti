@@ -21,7 +21,7 @@ string sostituzione(string parola,int chiave)
                 if (j+chiave >= arr.Length-1 )
                 {
                   
-                    ris += arr[0 + chiave-(26-j)];
+                    ris += arr[ chiave-(26-j)];
                 }
                 else
                 {
@@ -33,5 +33,27 @@ string sostituzione(string parola,int chiave)
     }
     return ris;
 }
-Console.WriteLine(sostituzione(parola,k1));
 
+
+string trasposizione (string parola,int chiave)
+{
+    char[] lett=parola.ToCharArray();
+    string ris1 = "";
+    for(int i = 0;i < parola.Length;i++)
+    {
+        if (i + chiave > parola.Length - 1)
+        {
+
+             lett[i]= lett[chiave - (lett.Length - i - 1)] ;
+            ris1 += lett[chiave - (lett.Length - i - 1)];
+        }
+        else
+        {
+             lett[i + chiave] = lett[i]  ;
+            ris1 += lett[i+chiave];
+        }
+    }
+    return ris1;
+}
+
+Console.WriteLine(trasposizione(parola,k2));
